@@ -1,0 +1,22 @@
+:root { 
+  --black: #000000;
+  --dark-blue: #1200e3;
+  --white: #ffffff03;
+  --white2: #ffffff;
+ 
+  --font-size-l2: 50px;
+  --font-size-m2: 26px;
+  --font-size-s2: 24px;
+  --font-size-xs2: 22px;
+  --font-size-xxs: 18px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-bold-white-24px {
+  color: var(--white2);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 700;
+}
